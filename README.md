@@ -32,8 +32,10 @@
 ### 参考教程以及资料
 
 1. 学姐（指导老师）制作的实验指导书。
-2. [Niagara 4 Video Training](https://www.youtube.com/watch?v=g_F1eLu_RQs&list=PLw_9UOA2f8TJOM0d-xq-1ewZ5hXMwcjaf&index=1))(注：优兔教程)
+2. [Niagara 4 Video Training](https://www.youtube.com/watch?v=g_F1eLu_RQs&list=PLw_9UOA2f8TJOM0d-xq-1ewZ5hXMwcjaf&index=1)(注：优兔教程)
 3. 公众号：南瓜社
+4. 中文论坛，全球论坛，参考手册，GitHub
+5. <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210518094931627.png" alt="image-20210518094931627" style="zoom:80%;" />
 
 
 
