@@ -17,6 +17,17 @@
 1. 小组选择命题为命题4（**Tridium**公司），项目定为**智慧养老平台**。
 2. 智慧养老平台：建设智能养老社区（楼宇自动化），结合人体传感器，监测个人身体健康状况，结合人工智能技术（AI智能机器人）实现医养康养，工作人员和子女可实时获取老师的生活环境与健康状况。（这主要是针对群居养老建设的）
 
+
+
+### 跌倒预警
+
+**参考**
+
+1. [跌倒检测为什么还没成为智能手表标配](https://zhuanlan.zhihu.com/p/321680141).
+2. [老年人的智能手环真的能检测到摔倒的状态吗](https://www.zhihu.com/question/34191524).
+
+
+
 ### 时间安排
 
 1. 按照自己的时间完成实验指导，熟悉Niagara。
@@ -32,10 +43,11 @@
 ### 参考教程以及资料
 
 1. 学姐（指导老师）制作的实验指导书。
-2. [Niagara 4 Video Training](https://www.youtube.com/watch?v=g_F1eLu_RQs&list=PLw_9UOA2f8TJOM0d-xq-1ewZ5hXMwcjaf&index=1)(注：优兔教程)
-3. 公众号：南瓜社
-4. 中文论坛，全球论坛，参考手册，GitHub
-5. <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210518094931627.png" alt="image-20210518094931627" style="zoom:80%;" />
+2. [线上技术学习资料：](https://pan.baidu.com/s/1K81HrLHOkEo3T2gnuS-qGA).
+3. [Niagara 4 Video Training](https://www.youtube.com/watch?v=g_F1eLu_RQs&list=PLw_9UOA2f8TJOM0d-xq-1ewZ5hXMwcjaf&index=1)(注：优兔教程)
+4. 公众号：南瓜社
+5. 中文论坛，全球论坛，参考手册，GitHub
+6. <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210518094931627.png" alt="image-20210518094931627" style="zoom:80%;" />
 
 
 
